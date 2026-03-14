@@ -1,0 +1,7 @@
+project_id = "meunvrmkaryqdbravsgk"
+
+[functions.generate-thumbnails]
+verify_jwt = false
+
+[functions.ai-organize]
+verify_jwt = false
